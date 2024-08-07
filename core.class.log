@@ -1,0 +1,228 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238420584@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07634A0FC1BC36C13BE',
+    participant: undefined
+  },
+  messageTimestamp: 1723058626,
+  pushName: 'William Melo',
+  broadcast: false,
+  message: Message {
+    conversation: 'hi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hi',
+  from: '573238420584'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2636bfb8-62ec-4523-9db8-fce9e9846a40',
+  keyword: 'key_b6716188-d4af-42c8-9626-1b9d81d43105',
+  answer: 'Bienvenido! Soy Carlos, el asistente virtual con IA de la Academia Musical. Puedes preguntarme lo que desees.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd4e8295ada18f640acc237046c19874'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238420584@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A2ED8B9734953F932A',
+    participant: undefined
+  },
+  messageTimestamp: 1723058635,
+  pushName: 'William Melo',
+  broadcast: false,
+  message: Message {
+    conversation: 'que cursos tienen?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que cursos tienen?',
+  from: '573238420584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238420584@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB098C983FBB8C3403B52',
+    participant: undefined
+  },
+  messageTimestamp: 1723058679,
+  pushName: 'William Melo',
+  broadcast: false,
+  message: Message {
+    conversation: 'nop',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'nop',
+  from: '573238420584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593968476661@s.whatsapp.net',
+    fromMe: false,
+    id: '3A880E38152D87DC00D3',
+    participant: undefined
+  },
+  messageTimestamp: 1723058680,
+  pushName: 'Jeisson Intriago',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dios lo bendiga hermano',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dios lo bendiga hermano',
+  from: '593968476661'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2636bfb8-62ec-4523-9db8-fce9e9846a40',
+  keyword: 'key_b6716188-d4af-42c8-9626-1b9d81d43105',
+  answer: 'Bienvenido! Soy Carlos, el asistente virtual con IA de la Academia Musical. Puedes preguntarme lo que desees.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd4e8295ada18f640acc237046c19874'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238420584@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E059D32465016BCF9B',
+    participant: undefined
+  },
+  messageTimestamp: 1723058690,
+  pushName: 'William Melo',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracias',
+  from: '573238420584'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_21cbff9f-4964-4b74-9647-133c868814da',
+  keyword: 'ans_d0103b63-97ad-42a2-9f42-66835ea9e21a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3f4d93c98621d0139553e817c9491c76'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2636bfb8-62ec-4523-9db8-fce9e9846a40',
+  keyword: 'key_b6716188-d4af-42c8-9626-1b9d81d43105',
+  answer: 'Bienvenido! Soy Carlos, el asistente virtual con IA de la Academia Musical. Puedes preguntarme lo que desees.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd4e8295ada18f640acc237046c19874'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2636bfb8-62ec-4523-9db8-fce9e9846a40',
+  keyword: 'key_b6716188-d4af-42c8-9626-1b9d81d43105',
+  answer: 'Bienvenido! Soy Carlos, el asistente virtual con IA de la Academia Musical. Puedes preguntarme lo que desees.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd4e8295ada18f640acc237046c19874'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_21cbff9f-4964-4b74-9647-133c868814da',
+  keyword: 'ans_d0103b63-97ad-42a2-9f42-66835ea9e21a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3f4d93c98621d0139553e817c9491c76'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573238420584@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DB742A4DFB271ACCFF',
+    participant: undefined
+  },
+  messageTimestamp: 1723058712,
+  pushName: 'William Melo',
+  broadcast: false,
+  message: Message {
+    conversation: 'no',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no',
+  from: '573238420584'
+}
